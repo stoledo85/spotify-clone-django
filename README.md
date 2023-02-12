@@ -1,11 +1,11 @@
-# Nome do meu projeto
+# Spotify Clone em Django
 
-Rápida descrição do objetivo de fazer esse projeto
+Criação de um projeto de clone do app Spotify em Django.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
+| :sparkles: Nome        | **Spotify Clone em Django**
+| :label: Tecnologias | Pyhton, Django, HTML, CSS
 | :rocket: URL         | https://url-deploy.com.br
 | :fire: Desafio     | https://url-do-desafio.com.br
 
@@ -14,4 +14,5 @@ Rápida descrição do objetivo de fazer esse projeto
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+<!-- Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc... -->
+* <p>O objetivo nesse inicio de projeto é criar o template o mais próximo possível do original.</p>
